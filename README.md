@@ -3,7 +3,7 @@
 <p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/w-xuefeng/count.svg?" /><br>
-  <img src="https://gpvc.arturio.dev/w-xuefeng" />
+  Welcome to my github profile！(●'◡'●)
 </p>
 
 

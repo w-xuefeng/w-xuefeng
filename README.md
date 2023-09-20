@@ -20,7 +20,7 @@
 
 <div align="center">
 
-  I am working full-time on the open source community. <br>Can you buy me a cup of coffee? 
+  Can you buy me a cup of coffee? 
 
   <a href="https://afdian.net/a/w-xuefeng">
 

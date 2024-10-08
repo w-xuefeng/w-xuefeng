@@ -22,7 +22,7 @@
 
   Can you buy me a cup of coffee? 
 
-  <a href="https://afdian.net/a/w-xuefeng">
+  <a href="https://afdian.com/a/w-xuefeng">
 
   <img src="afdian-w-xuefeng.jpeg" width="300px" />
 

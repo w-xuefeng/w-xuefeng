@@ -3,8 +3,7 @@
 A passionate Frontend Developer with expertise in modern web technologies. I love building beautiful, responsive, and high-performance applications.
 
 <p align="center">
-  Welcome to my github profile！(●'◡'●)<br>
-  <img src="https://profile-counter.deno.dev/w-xuefeng/count.svg" alt="w-xuefeng:: Visitor's Count" /><br>
+Welcome to my github profile！(●'◡'●)
 </p>
 
 <div align="center">
@@ -41,10 +40,14 @@ I'm a frontend developer who enjoys turning ideas into reality with clean, effic
 
 ## ☕ Support My Work
 
-If you like my projects and want to support my work, consider buying me a coffee!
+If you like my projects and want to support my work, consider buying me a coffee! 
 
-<p align="center">
+<a href="https://paypal.me/wxuefeng"><img width="115" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
+<a href="https://afdian.com/a/w-xuefeng"><img width="120" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="afdian"></a>
+
+
+<div align="center">
   <a href="https://afdian.com/a/w-xuefeng">
     <img src="afdian-w-xuefeng.jpeg" width="300px" />
   </a>
-</p>
+</div>
